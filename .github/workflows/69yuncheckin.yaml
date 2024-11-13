@@ -39,4 +39,4 @@ jobs:
           pip install -r requirements.txt  # 假设你的项目有 requirements.txt
 
       - name: Run Python script
-        run: python 69yun2.py  # 执行你的 Python 脚本
+        run: python 69yun.py  # 执行你的 Python 脚本
